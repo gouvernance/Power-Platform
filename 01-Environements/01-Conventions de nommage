@@ -1,0 +1,2 @@
+Il est important de définir la convention de nommage que vous utiliserez pour nommer vos environnements mais également les URLs que vous utiliserez.
+Choisir les URLs n'est probalblement pas un problèmes dans les environnements de développement mais peut rapidement devenir un problème sur les environnements de Production et de Pré-Production.
